@@ -1,6 +1,6 @@
 # Social App
 
-It is a graduate project to create a native mobile application with Android with full-fledged social features. It is interact with a server hosted in the cloud
+Implemented native mobile application with Android with full-fledged social features. It interacts with a server hosted in the cloud
 
 This is Node JS server that is used to provide REST API to the android application.
 
