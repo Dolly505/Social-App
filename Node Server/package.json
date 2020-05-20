@@ -1,0 +1,17 @@
+{
+  "name": "jk",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mocha": "^3.3.0",
+    "mysql": "^2.13.0",
+    "nodemailer": "^4.0.1",
+    "sequelize": "^3.30.4"
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <TextView
+        android:id="@+id/user1_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="TextView"
+        android:textSize="18sp" />
+
+    <!--<Button-->
+        <!--android:id="@+id/cancel_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentEnd="true"-->
+
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_marginEnd="13dp"-->
+        <!--android:background="@android:color/holo_red_dark"-->
+        <!--android:elevation="0dp"-->
+        <!--android:fontFamily="monospace"-->
+        <!--android:text="Cancel"-->
+        <!--android:textAppearance="@style/TextAppearance.AppCompat.Inverse"-->
+        <!--android:textColor="@color/black"-->
+        <!--android:textSize="14sp"-->
+        <!--android:focusableInTouchMode="false"-->
+        <!--android:clickable="false"-->
+        <!--android:focusable="false"/>-->
+</RelativeLayout>
